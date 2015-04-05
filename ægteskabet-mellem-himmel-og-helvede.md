@@ -366,8 +366,7 @@ En lov for løven og oksen er undertrykkelse.
 
 5. Smid nøglerne, O Rom, ned i dybet - faldende ned, endda ned til evigheden faldende;
 
-6. Og græd!5. Cast thy keys, O Rome, into the deep--down falling, even to eternity
-down falling;
+6. Og græd!
 
 7. I hendes rystende hænder tog hun den nyfødte rædsel, hylende.
 
@@ -377,7 +376,7 @@ down falling;
 
 10. Hånden med spydet brænder mod himlen; frigjort var skjoldet; frem sprang jalousiens hånd imellem det flammende hår, og hvivlede det nyfødte vidunder gennem den stjerneklare nat.
 
-11.  Ilden, ilden falder!
+11. Ilden, ilden falder!
 
 12. Se op! se op! O borger i London, åbn dit ansigt! O Jøde, hold inde med at tælle guld; vend tilbage til din olie og vin! O Afrika, sort Afrikaner! (Gå, vingede tanke, udvid panden.)
 
