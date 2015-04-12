@@ -1,5 +1,7 @@
 # Argumentet  
   
+![Plate 2](images/2.jpg "Plate 2")
+
 Rintrah brøler og ryster sin ild i tung luft,  
 Sultne skyer svajer i det dybe.  
   

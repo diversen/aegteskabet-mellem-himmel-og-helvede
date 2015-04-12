@@ -7,7 +7,7 @@ author:
 keywords: william blake
 language: da-DK
 tags: [the marriage of heaven and hell, william blake]
-cover-image: images/blake.jpg
+cover-image: images/cover.jpg
 lang: da
 stylesheet: epub.css
 publisher: http://gittobook.org
@@ -22,7 +22,7 @@ format-arguments:
     pdf: -V documentclass=report --template=templates/default.latex -S --toc --chapters -V fontsize=12pt  -V lang=danish
     epub: -S --toc --toc-depth=1
     mobi: ok
-    html-chunked: -s -S
+    html: -s -S --toc
 # ignore files
 ignore-files:
     - README.md
