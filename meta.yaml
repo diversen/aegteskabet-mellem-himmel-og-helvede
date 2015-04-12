@@ -1,0 +1,29 @@
+---
+title: 'Ægteskabet Mellem Himmel og Helvede'
+Subtitle: > 
+    Dansk oversættelse af William Blakes 'The Marriage of Heaven and Hell.' 
+author:
+- William Blake
+keywords: william blake
+language: da-DK
+tags: [the marriage of heaven and hell, william blake]
+cover-image: images/blake.jpg
+lang: da
+stylesheet: epub.css
+publisher: http://gittobook.org
+rights: http://creativecommons.org/licenses/by-sa/2.5/
+#date: 1895
+# are exports private or not / only repo owner can download exports (epub, mobi)
+private: true
+
+# pandoc format arguments
+# because of security these options are limited
+format-arguments:
+    pdf: -V documentclass=report --template=templates/default.latex -S --toc --chapters -V fontsize=12pt  -V lang=danish
+    epub: -S --toc --toc-depth=1
+    mobi: ok
+    html-chunked: -s -S
+# ignore files
+ignore-files:
+    - README.md
+...
