@@ -228,7 +228,7 @@ Rigeligt! Eller for meget.
   
 Oldtidens poeter animerede alle mulige praktiske objekter med guder og ånder, og hyldede dem med navne og genstande fra skovene, floderne, søerne, byerne, nationerne, eller hvad deres forstærkede og talrige sanser kunne opfatte. Og i særdeleshed studerede de enhver by og lands ånder, og placerede dem under mentale guddomme. Indtil et system blev formet, som tog fordel af og trælbandt det direkte og simple (vulgære) ved at abstrahere mentale guder fra objekterne. Da begyndte præsteskabet. De valgte former for tilbedelse ud fra poetiske fortællinger. Og med tiden annoncerede de at Guderne havde beordret dem til disse tin. Således glemte mennesket at alle Guder bor i hans bryst.  
   
-### En mindeværdig attrå  
+# En mindeværdig attrå  
   
 Profeterne Esajas og Ezekiel spiste med mig, og jeg spurgte dem, hvordan de eftertrykkeligt turde hævde at Gud talte til dem, og om de ikke tænkte, at de ville blive misforstået, og derved blive årsag til en byrde.  
   
